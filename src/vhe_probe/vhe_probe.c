@@ -3,10 +3,8 @@
  * Copyright (C) 2026. All Rights Reserved.
  */
 
-#include <linux/kernel.h>
 #include <linux/printk.h>
 #include <linux/string.h>
-#include <linux/types.h>
 #include <linux/errno.h>
 
 #include <kpm_utils.h>
